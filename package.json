@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "buffer": "^5.0.6",
+    "lodash": "^4.17.4",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.2"
   },
